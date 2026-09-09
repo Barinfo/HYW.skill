@@ -1,6 +1,6 @@
 {
   "name": "HYW.skill",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "何意味 — A meme-driven self-examination meta-skill for AI/agents. When the AI itself just made a baffling decision, an over-the-top reply, or something no human would naturally write, HYW auto-jumps in with a calm, detached 「何意味？」 (what does it even mean?), lays out its own motive, self-suspects the suspicious bits, and hands the decision power fully back to the human. The reverse-direction cousin of grilling (which interrogates *your* input), and a meme sibling of NEVERMIND (whatever vs. is this even reasonable). Does not review code (that's Camelot). Does not drive recursion (that's Ouroboros). HYW only audits the AI's *own* recent output and refuses to decide for you.",
   "description_zh": "何意味 — 梗系自我检举元技能。当 AI/agent 自己刚产出的东西令人费解、无语或连常人都写不出来时，HYW 自动回一句冷静疏离的「何意味？」，把动机讲清、逐条自省可疑点，然后把决策权完整交还给你。是 grilling 的反向调用（grilling 审你给的，HYW 审 AI 自己给的），与 NEVERMIND（无所谓 vs 这合理吗）互为梗系姊妹。不审代码（那是 Camelot），不驱动递归（那是 Ouroboros），绝不替你拍板。",
   "author": "FuCube",
